@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.listBody {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
